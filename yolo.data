@@ -1,0 +1,5 @@
+classes=4
+train=train.txt
+valid=val.txt
+names=yolo.names
+backup=/content/gdrive/MyDrive/colab/backup
